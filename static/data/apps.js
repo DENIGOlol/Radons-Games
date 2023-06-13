@@ -40,7 +40,7 @@ var apps = [
     'title': 'now.gg',
     'url': 'https://nowgg.me/',
     'image': 'https://uploads-ssl.webflow.com/60f008ba9757da0940af288e/6232d610e4172bed260d4cfd_9Dw5vXGi_400x400.jpeg',
-    'description': 'Now.gg is currently down (don\'t click on the roblox link)',
+    'description': 'Now.gg is currently down (im not sure whats Wrong with It but Just Dont Try It Again)
   },
   {
     "id": "reddit",
